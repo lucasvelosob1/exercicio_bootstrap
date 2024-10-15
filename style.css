@@ -1,0 +1,16 @@
+body {
+    background-color: #c9e0f6;
+}
+
+h2 {
+    text-align: center;
+    color: #343a40;
+}
+
+.container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
